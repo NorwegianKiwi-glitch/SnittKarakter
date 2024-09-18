@@ -1,0 +1,15 @@
+C:\Users\simon\reps\privat\SnittKarakter\bin\Debug\net7.0\SnittKarakter.exe
+C:\Users\simon\reps\privat\SnittKarakter\bin\Debug\net7.0\SnittKarakter.deps.json
+C:\Users\simon\reps\privat\SnittKarakter\bin\Debug\net7.0\SnittKarakter.runtimeconfig.json
+C:\Users\simon\reps\privat\SnittKarakter\bin\Debug\net7.0\SnittKarakter.dll
+C:\Users\simon\reps\privat\SnittKarakter\bin\Debug\net7.0\SnittKarakter.pdb
+C:\Users\simon\reps\privat\SnittKarakter\obj\Debug\net7.0\SnittKarakter.csproj.AssemblyReference.cache
+C:\Users\simon\reps\privat\SnittKarakter\obj\Debug\net7.0\SnittKarakter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simon\reps\privat\SnittKarakter\obj\Debug\net7.0\SnittKarakter.AssemblyInfoInputs.cache
+C:\Users\simon\reps\privat\SnittKarakter\obj\Debug\net7.0\SnittKarakter.AssemblyInfo.cs
+C:\Users\simon\reps\privat\SnittKarakter\obj\Debug\net7.0\SnittKarakter.csproj.CoreCompileInputs.cache
+C:\Users\simon\reps\privat\SnittKarakter\obj\Debug\net7.0\SnittKarakter.dll
+C:\Users\simon\reps\privat\SnittKarakter\obj\Debug\net7.0\refint\SnittKarakter.dll
+C:\Users\simon\reps\privat\SnittKarakter\obj\Debug\net7.0\SnittKarakter.pdb
+C:\Users\simon\reps\privat\SnittKarakter\obj\Debug\net7.0\SnittKarakter.genruntimeconfig.cache
+C:\Users\simon\reps\privat\SnittKarakter\obj\Debug\net7.0\ref\SnittKarakter.dll
